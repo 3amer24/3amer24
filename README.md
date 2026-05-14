@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Amer
+<!--# Hi there! 👋 I'm Amer
 
 **Student Research Assistant in Human-Computer Interaction (HCI)**
 
@@ -79,4 +79,4 @@ Feel free to reach out if you'd like to chat about game development, HCI researc
 
 ---
 
-*"The best interface is no interface at all—just seamless human interaction with technology."* ✨
+*"The best interface is no interface at all—just seamless human interaction with technology."* ✨-->
